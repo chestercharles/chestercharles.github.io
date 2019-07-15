@@ -1,0 +1,19 @@
+{
+  "name": "chestercharles.github.io",
+  "version": "1.0.0",
+  "description": "Website for chestercharles",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chestercharles/chestercharles.github.io.git"
+  },
+  "author": "Chester Carmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chestercharles/chestercharles.github.io/issues"
+  },
+  "homepage": "https://github.com/chestercharles/chestercharles.github.io#readme"
+}

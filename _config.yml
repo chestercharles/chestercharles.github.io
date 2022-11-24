@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ports'n'adaptors
+title: Chester.md
 subtitle: ""
 description: ""
-keywords:
-author: John Doe
+keywords: chester carmer
+author: Chester Carmer
 language: en
-timezone: ""
+timezone: MST
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
